@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Motinagar, Hyderabad, Telangana 500018 .
 profile:
   align: right
   image: telugu_tunakalu_logo_1.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p> Motinagar </p>
     <p> Hyderabad </p>
