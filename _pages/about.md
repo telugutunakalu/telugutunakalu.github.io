@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Motinagar, Hyderabad, Telangana 500018 .
 
 profile:
   align: right
   image: telugu_tunakalu_logo_1.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 Motinagar </p>
-    <p>123 Hyderabad </p>
-    <p>Your Telangana 500018</p>
+    <p> Motinagar </p>
+    <p> Hyderabad </p>
+    <p> Telangana 500018</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -60,5 +60,5 @@ about our mission of providing engaging content in the Telugu language.
 In conclusion, "తెలుగు తునకలు" or "Telugu Tunakalu" is a name that not only encapsulates our
 mission and objectives but is also well-suited to the contemporary challenges of engaging and
 promoting the Telugu language to the next generation.
-We kindly request your consideration and support for the formal registration of our non-profit
+We kindly request your support for the formal registration of our non-profit
 organization "తెలుగు తునకలు" (Telugu Tunakalu) and its objectives.
