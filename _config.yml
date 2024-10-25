@@ -133,8 +133,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Telugu Tunakalu Blog Posts # blog_name will be displayed in your blog page
-blog_description: 
+blog_name: తెలుగు తునకలు బాగు బ్లాగు # blog_name will be displayed in your blog page
+blog_description: తళుకు మెళుకుల తెలుగు తునకలు జిలుగు వెలుగులు
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
