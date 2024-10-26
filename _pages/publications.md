@@ -14,9 +14,6 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
-
 <h1> Coming soon ... </h1>
 <h1> త్వరలో  </h1>
-<!-- TODO: {% bibliography %} -->
-<!-- TODO: uncomment from above to generate bibliography -->
 </div>
