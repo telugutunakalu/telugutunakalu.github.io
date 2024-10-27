@@ -2,7 +2,7 @@
 layout: page
 title: తెలుగు తునకలు - శ్రవణాలయం
 description: 24 గంటలు తెలుగు కథలు, మాటలు వినిపించే ఒక ఛానల్ 
-img: assets/img/12.jpg
+img: assets/img/telugutunakalu_sravanalayam.jpg
 importance: 1
 category: work
 related_publications: false
