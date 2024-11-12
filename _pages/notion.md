@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: notion
 title: notion
 permalink: /notion/
 ---
